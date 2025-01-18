@@ -1,4 +1,0 @@
-.*
-//ignores all files starting with "."
-!.gitignore
-//excludes .gitignore from being yk... ignored
