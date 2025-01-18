@@ -1,3 +1,5 @@
+//this was the optomized version of ok.c by chatgpt
+
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
