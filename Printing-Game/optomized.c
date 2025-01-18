@@ -24,6 +24,6 @@ int main() {
     if (strcmp(option, "option 1 ???") != 0 && strcmp(option, "option 2 ???") != 0 && strcmp(option, "option 3 ???")) {
         printf("[hey %s pick one of the 3 valid options]\n", username);
     }
-
+    
     return 0;
 }
